@@ -10,6 +10,6 @@
 📫 Cómo llegar a mí ... Para ello, pueden contactar conmigo a través de mi correo cbegrol2502@g.educaand.es
 
 ### ¿Qué vas a encontrar aquí?
-●En la carpera "src", tendrás archivos con extensión js:  unos con métodos para insertar documentos en colecciones y otros con enunciados que se resuelven con métodos find(). El proyecto contiene ejemplos sobre colecciones y con los operadores y tipos de datos estudiados en clase.
+●En la carpera "src", tendrás archivos con extensión js:  unos con métodos para insertar documentos en colecciones y otros con enunciados que se resuelven con métodos find(). El proyecto contiene ejemplos sobre colecciones de cuadros famosos pintados durante toda la historia del arte, usando los operadores y tipos de datos. Así, si eres un fanático del arte como yo, podrás encontrar tus cuadros favoritos con solo un clic.
 
 ●En otra carpeta "doc" tendrás documentos pdf en los que explico la instalación de MongoDB, de Visual Studio Code, primeros comandos en mongo shell y breve explicación teórica de los métodos que uses.
